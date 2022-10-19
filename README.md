@@ -1,4 +1,4 @@
-# Camara-ref-impl-template-repo
+# Camara-ref-implementation-template
 A template for starting new ref implementation repo on the github.com/camaraproject organization
 The Camara reference implementation template should be used for contributing  new reference implementations in the GitHub organizations owned by CamaraProject. All repos, at minimum, must have the following files:
 
